@@ -14,7 +14,6 @@ public class Phone
 
         Phone.receiveCall("Андрей ", "89004326702");
         Phone.sendMessage(new String[]{"89317659054", "880032112312", "89102310121"}, 3);
-
     }
 
     public String number;
